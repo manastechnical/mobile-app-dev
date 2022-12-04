@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraApplication</string>
+    <string name="launch_camera">Launch Camera</string>
+    <string name="todo">TODO</string>
+</resources>
