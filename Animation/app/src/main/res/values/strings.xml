@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="animation_project">Animation Project</string>
+    <string name="drs">drS</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="rotate">Rotate</string>
+    <string name="bounce">Bounce</string>
+</resources>
