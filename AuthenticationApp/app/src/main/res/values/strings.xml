@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AuthenticationApp</string>
+    <string name="authenticator_app">Authenticator App</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="enter_your_fullname">Enter Your FullName</string>
+    <string name="enter_your_email_id">Enter Your Email ID</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_phone_no">Enter Your Phone No</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="welcome_to_dashboard">Welcome to Dashboard!</string>
+    <string name="logout">Logout</string>
+    <string name="authenticator_app_login">Authenticator App</string>
+    <string name="create_new_account_login">Create New Account</string>
+    <string name="enter_your_email_id_login">Enter Your Email ID</string>
+    <string name="enter_your_password_login">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New Here? Create Account</string>
+</resources>
