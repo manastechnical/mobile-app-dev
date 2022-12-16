@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/statusBlutoothTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" "
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/bluetoothIv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp" />
+
+    <Button
+        android:id="@+id/OnBtn"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:text="Turn On"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/OffBtn"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:text="Turn Off"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/discoverableBtn"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:text="Discoverable"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/pairedBtn"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:text="Paired Devices"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/pairedTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:minWidth="200dp"
+        android:textColor="#fff" />
+
+
+</LinearLayout>
